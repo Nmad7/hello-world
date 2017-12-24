@@ -1,2 +1,4 @@
 # hello-world
-A repository
+Hello!
+
+I am a student learning coding at Calvin College. Hopefully I can post some fun projects on here.
